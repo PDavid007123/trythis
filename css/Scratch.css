@@ -1,0 +1,73 @@
+
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #e3effc;
+      color: #333;
+      margin: 0;
+      padding: 2rem;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 2rem;
+      font-size: 2.5rem;
+    }
+
+    ul {
+      list-style-type: disc;
+      padding-left: 2rem;
+    }
+
+    ul ul {
+      list-style-type: circle;
+      padding-left: 1.5rem;
+    }
+
+    li {
+      margin-bottom: 1rem;
+    }
+
+    li small {
+      display: block;
+      color: #666;
+      font-size: 0.9rem;
+      margin-top: 0.2rem;
+    }
+   img{
+    width :60%;
+    border-radius: 8px;
+   }
+
+   .bold{
+    font-weight: bold;
+   }
+   
+   .maintitle{
+    text-decoration:underline
+   }
+   
+   .newroman{
+    font-family:'Times New Roman', Times, serif;
+    font-size:large;
+   }
+
+   .footer{
+    font-size:larger;
+   }
+
+   .utube {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0;
+  }
+
+.tablu{
+    width: 40%;
+    height:40%;
+}
+.box {
+    margin-bottom: 20px; /* Adds space between each element */
+  }
+ 
